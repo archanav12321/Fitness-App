@@ -37,7 +37,7 @@ The **Fitness App** is a web-based application designed to assist users in track
 - 🛠️ **Tools & Frameworks**: Eclipse IDE, Apache Tomcat Server
 
 ## Project Structure
-\```
+```
 Fitness_App/
 ├── src/
 │   ├── main/
@@ -68,7 +68,7 @@ Fitness_App/
 ├── pom.xml                            # Maven build file
 └── README.md                          # Project documentation
 
-\```
+```
 ## Installation & Setup
 
 ### Prerequisites
