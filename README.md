@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="path_to_your_logo.png" alt="Fitness App Logo" width="200" />
   <h1>Fitness App</h1>
   <p>A web-based application to track your fitness journey.</p>
 </div>
