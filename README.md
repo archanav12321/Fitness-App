@@ -29,8 +29,8 @@ The **Fitness App** is a **health and workout tracking** application designed to
 ---
 
 ## 📂 Folder Structure
-📦 Fitness-App 
-┣ 📂 frontend # React-based UI 
+📦 Fitness-App.
+┣ 📂 frontend # React-based UI.
 ┣ 📂 backend # Express.js APIs 
 ┣ 📂 models # Database schemas 
 ┣ 📂 utils # Helper functions 
